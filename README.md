@@ -100,3 +100,61 @@ One of the important elements in a visual factory is information sharing
 - Highlights the support required, when needed
 - Improves process performance
 - Monitors, maintains and controls inventory
+
+---
+
+## ⌚️ 5S- Control Methods
+### Seiri/Sort
+Seiri is focused on sorting and getting organized.
+- Sorting necessary or unnecessary items
+- Keeping items based on requirement
+- Make workflow smooth and efficient
+- Organize storage of all items
+- Identify frequently and non-frequently used items
+- Preventing accumulation of items by assigning them tags
+Seiri helps in:
+- Simplifying tasks
+- Effectively using the work place
+- Purchasing items carefully
+
+### Seiton/Stabilize
+Seiton is for Straighten or Stabilize
+- Classify and set items
+- Improve efficiency
+- Prevent loss and wastage of time
+- Choose correct place, position or holder for tools, items and materials
+- Mark or color code items so that they can be visually indicated
+
+### Seiso/Shine
+Seiso or Shine involves keeping the workplace shiny and clean by:
+- Eliminating clutter and organizing items
+- Marking the workplace clean so that it is easy to identify the malfunctioning equipment
+- Preventing mess
+- Finding the root cause of contamination
+
+### Seiketsu/Standardize
+- Standardising best practices across the work place
+- Performing tasks in a standard manner
+- Ensuring personal and environmental cleanliness
+*Tools include*:
+- Job-cycle charts
+- Visual charts
+- Scheduling 5 min of 5S activity
+- Checklists
+- Visual management with color coding
+
+### Shiesuke/Sustain
+Sheisuke is the final step and helps:
+- Maintain a discipline and committment
+- Maintain orderliness
+- Define a new status quo and standard for workplace organization
+*Tools include*:
+- Department tours
+- Performance reviews
+- Team and management check-ins
+- Pocket manuals
+- Newsletters
+- Signs and charts
+- Checksheets
+
+---
