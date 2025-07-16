@@ -48,3 +48,55 @@ Targets the goal of accident free workplace
 Includes applying TPM techniques to administrative functions. The main applications of TPM for controlling the improved process are:
 
 #### Spare parts management
+Helps maintain and store spare parts of the equipment using 5S method
+
+#### Measures for downtime
+Helps collect data for downtime and conduct Root Cause Analysis (RCA)
+
+#### Support & Guidance
+Helps maintain SOPs and train employees to maintain the equipment
+
+---
+
+## 🛵 Visual Factory
+A visual factory is a lean production environment where charts and signs are used to display information
+- Make the immediate status of activities clear to all
+- Enables the people involved to understand how each plant works
+- Makes the work area self-explanatory at a glance
+- Displays real-time information to the workforce
+- Helps standardize the process and eliminates waste
+
+---
+
+## 🚂 Elements
+## Organizing and standardizing the work place
+- 5S: Specified regions and areas => color coding: To understand the system at a glance, teh work place is organized and standardized using
+
+1. 5S [Sort, Set in Order, Shine, Standardize, Sustain]
+2. Specified regions and areas are defined for specific purposes
+3. Colors are defined for specific activities
+
+### Sharing information
+One of the important elements in a visual factory is information sharing
+
+*3-minute management approach* -> Issues, progress, and information are communicated to the workforce in three minutes using graphics
+
+*Signalling system* -> Visual elements, audio or both are used to signal the status of the process, sub-process or machines
+
+*Visual controls* -> In a visual factory, visual methods are used for communication
+
+*Control board* -> Helps people to read the complete process at a glance and analyze how process is working
+
+*SOP* -> Is a set of rules & regulations that must be mandatorily followed in a particular process
+
+*Control chart* -> provides information on process performance helps to understand the process is in control, and helps sustain the improvement made
+
+*Control plans* -> Are the plans that are displayed to evaluate the performance of the proess on a timely basis 
+
+### Benefits
+- Displays the real-time scenario
+- Keeps the workforce well-informed of the process
+- Aide in solving issues and bottlenecks immediatly
+- Highlights the support required, when needed
+- Improves process performance
+- Monitors, maintains and controls inventory
