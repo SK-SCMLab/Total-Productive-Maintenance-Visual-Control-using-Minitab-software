@@ -158,3 +158,38 @@ Sheisuke is the final step and helps:
 - Checksheets
 
 ---
+
+## 🤹 Case study: Machine analysis by identifying downtime causes, and evalute machine effectiveness. Assess the audit scores across departments
+
+### TPM interpretation
+#### 1. Overall uptime performance
+- All machines are generally performing well, averaging above 21 hrs/day
+- Machine_1 has notable dip 19 hours June 5, 2025 - this is correlated with a high 5 hours of downtime
+
+#### 2. Downtime analysis
+- Breakdowns are the most frequent and severe cause of downtime (13.7 hrs) - this is the key problem area
+- Maintenance is also contributed significantly (10.5 hours), but is typically planned and supports uptime in the long run
+- Breakdown prevention and introduce proactive maintenance
+- Proper scheduling of maintenance to reduce heavy-day disruptions
+
+#### 3. Machine Effectiveness
+- Maintenance hours are almost equal to breakdown downtime for each machine - indicating a mixed result
+- Machine_1 & Machine_2 have highly combined downtime for both breakdown and maintenance. This suggests
+-   Possibly reactive maintenance is dominating
+-   Need for better Preventive Maintenance (PM) scheduled to reduce unplanned stops
+
+### 5S interpretation
+- High *Sustain* scores reflect a culture committed to continuous improvement and discipline
+- Good *Standardize* scores demonstrate that visual controls and procedures are successfully used to maintain organization
+- Moderate *Shine* scores point to the need for more rigorous cleaning schedules and early problem detection via inspections
+- Slightly lower *Sort* and *Set-in-order* suggests reviewing storage systems or removing unused items more aggressively to reduce waste and improve efficiency
+
+---
+
+## 🎲 Requirements
+- Minitab 21 or above
+- Understanding Six Sigma fundamental concepts
+
+---
+
+*"Every person has mind, TPM support them from behind"*
